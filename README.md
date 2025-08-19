@@ -5,7 +5,7 @@ The objective of this library is to generate free energy surface from temperatur
 
 Free energy calculator can be simply installed using pip
 
-To install it, either run:
+To install it run:
 
 ```bash
     pip install .
